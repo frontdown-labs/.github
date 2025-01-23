@@ -15,6 +15,7 @@ have a look at the [documentation](https://frontdown.me/docs/).
 
 ## Projects
 
+| | | |
 |---|---|---|
 | [frontdown-api](https://github.com/frontdown-labs/frontdown-api) | Rest API for the hosts, backups config and secrets management | [![GitHub stars](https://img.shields.io/github/stars/frontdown-labs/frontdown-api?style=social)](https://github.com/frontdown-labs/frontdown-labs) |
 | [frontdown-install](https://github.com/frontdown-labs/frontdown-install) | Installation script for installing the API and configure the server | [![GitHub stars](https://img.shields.io/github/stars/frontdown-labs/frontdown-install?style=social)](https://github.com/frontdown-labs/frontdown-install) |
