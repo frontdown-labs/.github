@@ -15,14 +15,9 @@ have a look at the [documentation](https://frontdown.me/docs/).
 
 ## Projects
 
-| | | |
 |---|---|---|
 | [frontdown-api](https://github.com/frontdown-labs/frontdown-api) | Rest API for the hosts, backups config and secrets management | [![GitHub stars](https://img.shields.io/github/stars/frontdown-labs/frontdown-api?style=social)](https://github.com/frontdown-labs/frontdown-labs) |
-
 | [frontdown-install](https://github.com/frontdown-labs/frontdown-install) | Installation script for installing the API and configure the server | [![GitHub stars](https://img.shields.io/github/stars/frontdown-labs/frontdown-install?style=social)](https://github.com/frontdown-labs/frontdown-install) |
-
 | [frontdown-roles](https://github.com/frontdown-labs/frontdown-roles) | All the internals roles that can be used by the API | [![GitHub stars](https://img.shields.io/github/stars/frontdown-labs/frontdown-roles?style=social)](https://github.com/frontdown-labs/frontdown-roles) |
-
 | [frontdown-docs](https://github.com/frontdown-labs/frontdown-docs) | The documentation website for the project | [![GitHub stars](https://img.shields.io/github/stars/frontdown-labs/frontdown-docs?style=social)](https://github.com/frontdown-labs/frontdown-docs) |
-
 | [frontdown-theme](https://github.com/frontdown-labs/frontdown-theme) | A fork of the [Hextra](https://github.com/imfing/hextra) theme | [![GitHub stars](https://img.shields.io/github/stars/frontdown-labs/frontdown-theme?style=social)](https://github.com/frontdown-labs/frontdown-theme) |
