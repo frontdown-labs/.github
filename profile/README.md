@@ -6,7 +6,7 @@
 
 # Frontdown Labs
 
-<img align="right" src="https://frontdown.me/android-chrome-192x192.png" alt="Logo"/> 
+<img align="right" src="https://frontdown.me/android-chrome-192x192.png" alt="Logo" width="140" height="140"/> 
 
 Frontdown is a backup solution that aims to provide a simple and secure way to backup any host. It's based on [restic](https://restic.net/) that is a fast, secure, and efficient backup program. Frontdown is a project that is maintained by [Frontdown Labs](https://frontdown.me).
 
